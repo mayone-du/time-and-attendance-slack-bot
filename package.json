@@ -3,7 +3,8 @@
     "@google/clasp": "^2.4.1"
   },
   "scripts": {
-    "clasp": "clasp"
+    "clasp": "clasp",
+    "deploy": "clasp push"
   },
   "devDependencies": {
     "@types/google-apps-script": "^1.0.48"
